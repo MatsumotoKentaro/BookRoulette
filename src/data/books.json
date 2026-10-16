@@ -1,0 +1,908 @@
+[
+  {
+    "id": "isbn-9784142230617",
+    "title": "歎異抄 : 信じる心は一つである",
+    "series": "text",
+    "publicationDate": "2016-04",
+    "isbn": "9784142230617",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I034144453"
+  },
+  {
+    "id": "ndl-000011159578",
+    "title": "100分de名著",
+    "series": "text",
+    "author": "日本放送協会",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011159578"
+  },
+  {
+    "id": "isbn-9784140815946",
+    "title": "アインシュタイン相対性理論",
+    "series": "books",
+    "author": "佐藤, 勝彦, 1945-",
+    "publicationDate": "2014-03",
+    "isbn": "9784140815946",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I025323415"
+  },
+  {
+    "id": "isbn-9784140817445",
+    "title": "アドラー 人生の意味の心理学 : 変われない?変わりたくない?",
+    "series": "books",
+    "author": "岸見, 一郎, 1956-",
+    "publicationDate": "2018-06",
+    "isbn": "9784140817445",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029028260"
+  },
+  {
+    "id": "isbn-9784140815243",
+    "title": "アラン幸福論",
+    "series": "books",
+    "author": "合田, 正人, 1957-",
+    "publicationDate": "2012-04",
+    "isbn": "9784140815243",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I023558107"
+  },
+  {
+    "id": "isbn-9784140818299",
+    "title": "アルベール・カミュ ペスト : 果てしなき不条理との闘い",
+    "series": "books",
+    "author": "中条, 省平, 1954-",
+    "publicationDate": "2020-09",
+    "isbn": "9784140818299",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I030628361"
+  },
+  {
+    "id": "isbn-9784140819166",
+    "title": "アンネの日記 : 言葉はどのようにして人を救うのか",
+    "series": "books",
+    "author": "小川, 洋子, 1962-",
+    "publicationDate": "2022-09",
+    "isbn": "9784140819166",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I032380438"
+  },
+  {
+    "id": "isbn-9784140817643",
+    "title": "石牟礼道子 苦海浄土 : 悲しみのなかの真実",
+    "series": "books",
+    "author": "若松, 英輔, 1968-",
+    "publicationDate": "2019-01",
+    "isbn": "9784140817643",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029433895"
+  },
+  {
+    "id": "isbn-9784140817247",
+    "title": "内村鑑三 代表的日本人 : 永遠の今を生きる者たち",
+    "series": "books",
+    "author": "若松, 英輔, 1968-",
+    "publicationDate": "2017-10",
+    "isbn": "9784140817247",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I028565995"
+  },
+  {
+    "id": "isbn-9784140820124",
+    "title": "老い : ボーヴォワール : 超高齢社会という「恵み」",
+    "series": "books",
+    "author": "上野, 千鶴子, 1948-",
+    "publicationDate": "2026-07",
+    "isbn": "9784140820124",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I034819814"
+  },
+  {
+    "id": "isbn-9784140817087",
+    "title": "岡倉天心 茶の本",
+    "series": "books",
+    "author": "大久保, 喬樹, 1946-2020",
+    "publicationDate": "2016-10",
+    "isbn": "9784140817087",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I027648784"
+  },
+  {
+    "id": "isbn-9784140818961",
+    "title": "オルテガ 大衆の反逆 : 真のリベラルを取り戻せ",
+    "series": "books",
+    "author": "中島, 岳志, 1975-",
+    "publicationDate": "2022-02",
+    "isbn": "9784140818961",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I031980934"
+  },
+  {
+    "id": "isbn-9784140819746",
+    "title": "風と共に去りぬ : マーガレット・ミッチェル : 世紀の大ベストセラーの誤解をとく",
+    "series": "books",
+    "author": "鴻巣, 友季子, 1963-",
+    "publicationDate": "2024-09",
+    "isbn": "9784140819746",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I033696914"
+  },
+  {
+    "id": "isbn-9784140815908",
+    "title": "鴨長明方丈記",
+    "series": "books",
+    "author": "小林, 一彦, 1960-",
+    "publicationDate": "2013-06",
+    "isbn": "9784140815908",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I024575311"
+  },
+  {
+    "id": "isbn-9784140818169",
+    "title": "カント永遠平和のために : 悪を克服する哲学",
+    "series": "books",
+    "author": "萱野, 稔人, 1970-",
+    "publicationDate": "2020-04",
+    "isbn": "9784140818169",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I030366093"
+  },
+  {
+    "id": "isbn-9784140819432",
+    "title": "カント純粋理性批判 : 答えの出ない問いはどのように問われるべきか?",
+    "series": "books",
+    "author": "西, 研, 1957-",
+    "publicationDate": "2023-08",
+    "isbn": "9784140819432",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I032987562"
+  },
+  {
+    "id": "isbn-9784140820018",
+    "title": "群衆心理 : ル・ボン : 「みんな」には騙されない",
+    "series": "books",
+    "author": "武田, 砂鉄, 1982-",
+    "publicationDate": "2025-11",
+    "isbn": "9784140820018",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I034407120"
+  },
+  {
+    "id": "isbn-9784140815281",
+    "title": "兼好法師徒然草",
+    "series": "books",
+    "author": "荻野, 文子, 1957-",
+    "publicationDate": "2012-10",
+    "isbn": "9784140815281",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I023996243"
+  },
+  {
+    "id": "isbn-9784140817094",
+    "title": "小泉八雲 日本の面影",
+    "series": "books",
+    "author": "池田, 雅之, 1946-",
+    "publicationDate": "2016-11",
+    "isbn": "9784140817094",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I027715954"
+  },
+  {
+    "id": "isbn-9784140815212",
+    "title": "孔子論語",
+    "series": "books",
+    "author": "佐久, 協, 1944-",
+    "publicationDate": "2012-02",
+    "isbn": "9784140815212",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I023405134"
+  },
+  {
+    "id": "isbn-9784140816516",
+    "title": "古事記",
+    "series": "books",
+    "author": "三浦, 佑之, 1946-",
+    "publicationDate": "2014-08",
+    "isbn": "9784140816516",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I025629921"
+  },
+  {
+    "id": "isbn-9784140818121",
+    "title": "サルトル 実存主義とは何か : 希望と自由の哲学",
+    "series": "books",
+    "author": "海老坂, 武, 1934-",
+    "publicationDate": "2020-03",
+    "isbn": "9784140818121",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I030306961"
+  },
+  {
+    "id": "isbn-9784140815922",
+    "title": "サン=テグジュペリ星の王子さま",
+    "series": "books",
+    "author": "水本, 弘文, 1945-",
+    "publicationDate": "2013-11",
+    "isbn": "9784140815922",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I024995374"
+  },
+  {
+    "id": "isbn-9784140819210",
+    "title": "シェイクスピア ハムレット : 悩みを乗り越えて悟りへ",
+    "series": "books",
+    "author": "河合, 祥一郎, 1960-",
+    "publicationDate": "2022-11",
+    "isbn": "9784140819210",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I032492227"
+  },
+  {
+    "id": "isbn-9784140819562",
+    "title": "貞観政要 : 世を革めるのはリーダーのみにあらず",
+    "series": "books",
+    "author": "出口, 治明, 1948-",
+    "publicationDate": "2024-02",
+    "isbn": "9784140819562",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I033318484"
+  },
+  {
+    "id": "isbn-9784140816745",
+    "title": "清少納言 枕草子",
+    "series": "books",
+    "author": "山口, 仲美, 1943-",
+    "publicationDate": "2015-09",
+    "isbn": "9784140816745",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I026727103"
+  },
+  {
+    "id": "isbn-9784140819692",
+    "title": "戦争論 : ロジェ・カイヨワ : 文明という果てしない暴力",
+    "series": "books",
+    "author": "西谷, 修, 1950-",
+    "publicationDate": "2024-07",
+    "isbn": "9784140819692",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I033590530"
+  },
+  {
+    "id": "isbn-9784140819661",
+    "title": "戦争は女の顔をしていない : アレクシエーヴィチ : 人びとの声を紡ぐ",
+    "series": "books",
+    "author": "沼野, 恭子, 1957-",
+    "publicationDate": "2024-06",
+    "isbn": "9784140819661",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I033541362"
+  },
+  {
+    "id": "isbn-9784140816530",
+    "title": "世阿弥 風姿花伝",
+    "series": "books",
+    "author": "土屋, 恵一郎, 1946-",
+    "publicationDate": "2015-02",
+    "isbn": "9784140816530",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I026092589"
+  },
+  {
+    "id": "isbn-9784140819937",
+    "title": "善の研究 : 西田幾多郎 : 日常で深める哲学",
+    "series": "books",
+    "author": "若松, 英輔, 1968-",
+    "publicationDate": "2025-05",
+    "isbn": "9784140819937",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I034080678"
+  },
+  {
+    "id": "isbn-9784140817056",
+    "title": "荘子",
+    "series": "books",
+    "author": "玄侑, 宗久, 1956-",
+    "publicationDate": "2016-08",
+    "isbn": "9784140817056",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I027530625"
+  },
+  {
+    "id": "isbn-9784140817773",
+    "title": "歎異抄 : 仏にわが身をゆだねよ",
+    "series": "books",
+    "author": "釈, 徹宗, 1961-",
+    "publicationDate": "2019-05",
+    "isbn": "9784140817773",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029669594"
+  },
+  {
+    "id": "isbn-9784140818268",
+    "title": "ダーウィン 種の起源 : 未来へつづく進化論",
+    "series": "books",
+    "author": "長谷川, 真理子, 1952-",
+    "publicationDate": "2020-08",
+    "isbn": "9784140818268",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I030570422"
+  },
+  {
+    "id": "isbn-9784140819036",
+    "title": "太宰治 斜陽 : 名もなき「声」の物語",
+    "series": "books",
+    "author": "高橋, 源一郎, 1951-",
+    "publicationDate": "2022-07",
+    "isbn": "9784140819036",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I032263562"
+  },
+  {
+    "id": "isbn-9784140817520",
+    "title": "道元 正法眼蔵 : わからないことがわかるということが悟り",
+    "series": "books",
+    "author": "ひろ, さちや, 1936-2022",
+    "publicationDate": "2018-08",
+    "isbn": "9784140817520",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029147971"
+  },
+  {
+    "id": "isbn-9784140815205",
+    "title": "ドラッカー マネジメント",
+    "series": "books",
+    "author": "上田, 惇生, 1938-",
+    "publicationDate": "2012-02",
+    "isbn": "9784140815205",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I023405131"
+  },
+  {
+    "id": "isbn-9784140815953",
+    "title": "夏目漱石 こころ",
+    "series": "books",
+    "author": "姜, 尚中, 1950-",
+    "publicationDate": "2014-05",
+    "isbn": "9784140815953",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I025439433"
+  },
+  {
+    "id": "isbn-9784140815229",
+    "title": "ニーチェ ツァラトゥストラ",
+    "series": "books",
+    "author": "西, 研, 1957-",
+    "publicationDate": "2012-03",
+    "isbn": "9784140815229",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I023468227"
+  },
+  {
+    "id": "isbn-9784140819722",
+    "title": "ニコマコス倫理学 : アリストテレス : 「よく生きる」ための哲学",
+    "series": "books",
+    "author": "山本, 芳久, 1973-",
+    "publicationDate": "2024-08",
+    "isbn": "9784140819722",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I033642132"
+  },
+  {
+    "id": "isbn-9784140815298",
+    "title": "新渡戸稲造武士道",
+    "series": "books",
+    "author": "山本, 博文, 1957-2020",
+    "publicationDate": "2012-12",
+    "isbn": "9784140815298",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I024129797"
+  },
+  {
+    "id": "isbn-9784140815939",
+    "title": "般若心経",
+    "series": "books",
+    "author": "佐々木, 閑, 1956-",
+    "publicationDate": "2014-01",
+    "isbn": "9784140815939",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I025127160"
+  },
+  {
+    "id": "isbn-9784140818510",
+    "title": "バートランド・ラッセル幸福論 : 競争、疲れ、ねたみから解き放たれるために",
+    "series": "books",
+    "author": "小川, 仁志",
+    "publicationDate": "2021-03",
+    "isbn": "9784140818510",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I031333845"
+  },
+  {
+    "id": "isbn-9784140815892",
+    "title": "パスカル パンセ",
+    "series": "books",
+    "author": "鹿島, 茂, 1949-",
+    "publicationDate": "2013-03",
+    "isbn": "9784140815892",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I024314167"
+  },
+  {
+    "id": "isbn-9784140815236",
+    "title": "福沢諭吉学問のすゝめ",
+    "series": "books",
+    "author": "齋藤, 孝, 1960-",
+    "publicationDate": "2012-03",
+    "isbn": "9784140815236",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I023468236"
+  },
+  {
+    "id": "isbn-9784140815915",
+    "title": "フランクル夜と霧",
+    "series": "books",
+    "author": "諸富, 祥彦, 1963-",
+    "publicationDate": "2013-08",
+    "isbn": "9784140815915",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I024750668"
+  },
+  {
+    "id": "isbn-9784140820056",
+    "title": "フランケンシュタイン : メアリ・シェリー : 本当の「怪物」は、誰なのか",
+    "series": "books",
+    "author": "広野, 由美子, 1958-",
+    "publicationDate": "2026-01",
+    "isbn": "9784140820056",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I034500338"
+  },
+  {
+    "id": "isbn-9784140817018",
+    "title": "ブッダ最期のことば",
+    "series": "books",
+    "author": "佐々木, 閑, 1956-",
+    "publicationDate": "2016-06",
+    "isbn": "9784140817018",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I027376099"
+  },
+  {
+    "id": "isbn-9784140815267",
+    "title": "ブッダ真理のことば",
+    "series": "books",
+    "author": "佐々木, 閑, 1956-",
+    "publicationDate": "2012-06",
+    "isbn": "9784140815267",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I023728605"
+  },
+  {
+    "id": "isbn-9784140819654",
+    "title": "変身 : カフカ : 「弱さ」という巨大な力",
+    "series": "books",
+    "author": "川島, 隆, 1976-",
+    "publicationDate": "2024-06",
+    "isbn": "9784140819654",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I033541361"
+  },
+  {
+    "id": "isbn-9784140818572",
+    "title": "法華経 : 誰でもブッダになれる",
+    "series": "books",
+    "author": "植木, 雅俊, 1951-",
+    "publicationDate": "2021-06",
+    "isbn": "9784140818572",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I031505431"
+  },
+  {
+    "id": "isbn-9784140815274",
+    "title": "マキャベリ君主論",
+    "series": "books",
+    "author": "武田, 好",
+    "publicationDate": "2012-08",
+    "isbn": "9784140815274",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I023870489"
+  },
+  {
+    "id": "isbn-9784140816523",
+    "title": "松尾芭蕉 おくのほそ道",
+    "series": "books",
+    "author": "長谷川, 櫂, 1954-",
+    "publicationDate": "2014-10",
+    "isbn": "9784140816523",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I025836279"
+  },
+  {
+    "id": "isbn-9784140819326",
+    "title": "マルクス・アウレリウス自省録 : 他者との共生はいかに可能か",
+    "series": "books",
+    "author": "岸見, 一郎, 1956-",
+    "publicationDate": "2023-02",
+    "isbn": "9784140819326",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I032653102"
+  },
+  {
+    "id": "isbn-9784140816738",
+    "title": "万葉集",
+    "series": "books",
+    "author": "佐佐木, 幸綱, 1938-",
+    "publicationDate": "2015-05",
+    "isbn": "9784140816738",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I026369971"
+  },
+  {
+    "id": "isbn-9784140818541",
+    "title": "三木清 人生論ノート : 孤独は知性である",
+    "series": "books",
+    "author": "岸見, 一郎, 1956-",
+    "publicationDate": "2021-04",
+    "isbn": "9784140818541",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I031396687"
+  },
+  {
+    "id": "isbn-9784140815250",
+    "title": "宮沢賢治銀河鉄道の夜",
+    "series": "books",
+    "author": "Pulvers, Roger, 1944-",
+    "publicationDate": "2012-05",
+    "isbn": "9784140815250",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I023618343"
+  },
+  {
+    "id": "isbn-9784140818619",
+    "title": "宮本武蔵『五輪書』 : わが道を生きる",
+    "series": "books",
+    "author": "魚住, 孝至, 1953-",
+    "publicationDate": "2021-07",
+    "isbn": "9784140818619",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I031555210"
+  },
+  {
+    "id": "isbn-9784140816752",
+    "title": "紫式部 源氏物語",
+    "series": "books",
+    "author": "三田村, 雅子, 1948-",
+    "publicationDate": "2015-12",
+    "isbn": "9784140816752",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I026979325"
+  },
+  {
+    "id": "isbn-9784140816769",
+    "title": "柳田国男 遠野物語",
+    "series": "books",
+    "author": "石井, 正己, 1958-",
+    "publicationDate": "2016-03",
+    "isbn": "9784140816769",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I027161324"
+  },
+  {
+    "id": "isbn-9784140818879",
+    "title": "維摩経 : 空と慈悲の物語",
+    "series": "books",
+    "author": "釈, 徹宗, 1961-",
+    "publicationDate": "2022-01",
+    "isbn": "9784140818879",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I031915739"
+  },
+  {
+    "id": "isbn-9784140817896",
+    "title": "ユゴー ノートル=ダム・ド・パリ : 大聖堂物語",
+    "series": "books",
+    "author": "鹿島, 茂, 1949-",
+    "publicationDate": "2019-08",
+    "isbn": "9784140817896",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029878226"
+  },
+  {
+    "id": "isbn-9784140817155",
+    "title": "良寛詩歌集 : 「どん底目線」で生きる",
+    "series": "books",
+    "author": "中野, 東禅, 1939-",
+    "publicationDate": "2017-04",
+    "isbn": "9784140817155",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I028101288"
+  },
+  {
+    "id": "isbn-9784140817193",
+    "title": "ルソー エミール : 自分のために生き、みんなのために生きる",
+    "series": "books",
+    "author": "西, 研, 1957-",
+    "publicationDate": "2017-08",
+    "isbn": "9784140817193",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I028433967"
+  },
+  {
+    "id": "isbn-9784140820070",
+    "title": "論語と算盤 : 渋沢栄一 : 対極を両立させる知恵と才気",
+    "series": "books",
+    "author": "守屋, 淳, 1965-",
+    "publicationDate": "2026-02",
+    "isbn": "9784140820070",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I034560205"
+  },
+  {
+    "id": "isbn-9784144072260",
+    "title": "君たちはどう生きるか : 池上彰特別授業 : 読書の学校",
+    "series": "special",
+    "author": "池上, 彰, 1950-",
+    "publicationDate": "2017-12",
+    "isbn": "9784144072260",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I028647351"
+  },
+  {
+    "id": "isbn-9784144072291",
+    "title": "銀の匙 : 齋藤孝特別授業 : 読書の学校",
+    "series": "special",
+    "author": "齋藤, 孝, 1960-",
+    "publicationDate": "2018-03",
+    "isbn": "9784144072291",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I028829845"
+  },
+  {
+    "id": "isbn-9784144072246",
+    "title": "菜根譚×呻吟語 : 成功から学ぶのか、失敗から学ぶのか",
+    "series": "special",
+    "publicationDate": "2017-06",
+    "isbn": "9784144072246",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I028173026"
+  },
+  {
+    "id": "isbn-9784144072314",
+    "title": "西遊記 : 出口治明特別授業 : 読書の学校",
+    "series": "special",
+    "author": "出口, 治明, 1948-",
+    "publicationDate": "2018-05",
+    "isbn": "9784144072314",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I028989207"
+  },
+  {
+    "id": "isbn-9784144071997",
+    "title": "「幸せ」について考えよう",
+    "series": "special",
+    "publicationDate": "2014-05",
+    "isbn": "9784144071997",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I025408122"
+  },
+  {
+    "id": "isbn-9784144072536",
+    "title": "史記 : 安田登特別授業 : 読書の学校",
+    "series": "special",
+    "author": "安田, 登, 1956-",
+    "publicationDate": "2020-03",
+    "isbn": "9784144072536",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I030254912"
+  },
+  {
+    "id": "isbn-9784144072642",
+    "title": "社会契約論 : 苫野一徳特別授業 : 読書の学校",
+    "series": "special",
+    "author": "苫野, 一徳",
+    "publicationDate": "2020-12",
+    "isbn": "9784144072642",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I030765698"
+  },
+  {
+    "id": "isbn-9784144073151",
+    "title": "宗教とは何か : フェスティンガーほか『予言がはずれるとき』釈撤宗 『ニコライの日記』最相葉月 『大義』片山杜秀 遠藤周作『深い河』中島岳志",
+    "series": "special",
+    "author": "釈徹宗 最相葉月 片山杜秀 中島岳志",
+    "publicationDate": "2024-07",
+    "isbn": "9784144073151",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I033546444"
+  },
+  {
+    "id": "isbn-9784144072734",
+    "title": "集中講義河合隼雄 : こころの深層を探る",
+    "series": "special",
+    "publicationDate": "2021-07",
+    "isbn": "9784144072734",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I031513809"
+  },
+  {
+    "id": "isbn-9784144072185",
+    "title": "集中講義旧約聖書 : 「一神教」の根源を見る",
+    "series": "special",
+    "publicationDate": "2016-02",
+    "isbn": "9784144072185",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I027050848"
+  },
+  {
+    "id": "isbn-9784144072468",
+    "title": "集中講義三国志 : 正史の英雄たち",
+    "series": "special",
+    "publicationDate": "2019-07",
+    "isbn": "9784144072468",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029747105"
+  },
+  {
+    "id": "isbn-9784144073410",
+    "title": "集中講義三大哲学書 : カント『純粋理性批判』ヘーゲル『精神現象学』ハイデガー『存在と時間』",
+    "series": "special",
+    "author": "戸谷洋志",
+    "publicationDate": "2026-01",
+    "isbn": "9784144073410",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I034473117"
+  },
+  {
+    "id": "isbn-9784144073199",
+    "title": "集中講義太平記 : 「歴史の方程式」を学べ",
+    "series": "special",
+    "author": "安田, 登, 1956-",
+    "publicationDate": "2024-09",
+    "isbn": "9784144073199",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I033652002"
+  },
+  {
+    "id": "isbn-9784144072239",
+    "title": "集中講義大乗仏教 : こうしてブッダの教えは変容した",
+    "series": "special",
+    "publicationDate": "2017-04",
+    "isbn": "9784144072239",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I027999653"
+  },
+  {
+    "id": "isbn-9784144072789",
+    "title": "集中講義ドストエフスキー : 五大長編を解読する",
+    "series": "special",
+    "author": "亀山, 郁夫, 1949-",
+    "publicationDate": "2022-01",
+    "isbn": "9784144072789",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I031881652"
+  },
+  {
+    "id": "isbn-9784144073281",
+    "title": "集中講義中井久夫 : 心の病の「豊かさ」を読む",
+    "series": "special",
+    "author": "斎藤環",
+    "publicationDate": "2025-07",
+    "isbn": "9784144073281",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I034151711"
+  },
+  {
+    "id": "isbn-9784144073069",
+    "title": "集中講義夏目漱石 : 「文豪」の全身を読みあかす",
+    "series": "special",
+    "author": "阿部公彦/著",
+    "publicationDate": "2023-11",
+    "isbn": "9784144073069",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I033121633"
+  },
+  {
+    "id": "isbn-9784144073519",
+    "title": "集中講義はじめての日蓮 : 「本来の仏教」とは何か",
+    "series": "special",
+    "author": "植木雅俊",
+    "publicationDate": "2026-10",
+    "isbn": "9784144073519",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I034939353"
+  },
+  {
+    "id": "isbn-9784144072833",
+    "title": "集中講義平家物語 : こうして時代は転換した",
+    "series": "special",
+    "author": "安田, 登, 1956-",
+    "publicationDate": "2022-07",
+    "isbn": "9784144072833",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I032219375"
+  },
+  {
+    "id": "isbn-9784144073335",
+    "title": "集中講義ヘミングウェイ : 過酷な世界を生き抜く倫理",
+    "series": "special",
+    "author": "都甲幸治",
+    "publicationDate": "2025-09",
+    "isbn": "9784144073335",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I034257967"
+  },
+  {
+    "id": "isbn-9784144072352",
+    "title": "集中講義宮沢賢治 : ほんとうの幸いを生きる",
+    "series": "special",
+    "publicationDate": "2018-08",
+    "isbn": "9784144072352",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029099519"
+  },
+  {
+    "id": "isbn-9784144072277",
+    "title": "シンデレラ : 中野京子特別授業 : 読書の学校",
+    "series": "special",
+    "author": "中野, 京子",
+    "publicationDate": "2017-12",
+    "isbn": "9784144072277",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I028647352"
+  },
+  {
+    "id": "isbn-9784144072383",
+    "title": "自分の感受性くらい : 若松英輔特別授業 : 読書の学校",
+    "series": "special",
+    "author": "若松, 英輔, 1968-",
+    "publicationDate": "2018-12",
+    "isbn": "9784144072383",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029339343"
+  },
+  {
+    "id": "isbn-9784144072475",
+    "title": "ソクラテスの弁明 : 西研特別授業 : 読書の学校",
+    "series": "special",
+    "author": "西, 研, 1957-",
+    "publicationDate": "2019-08",
+    "isbn": "9784144072475",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029802363"
+  },
+  {
+    "id": "isbn-9784144072710",
+    "title": "時をつむぐ旅人萩尾望都",
+    "series": "special",
+    "publicationDate": "2021-06",
+    "isbn": "9784144072710",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I031450731"
+  },
+  {
+    "id": "isbn-9784144072574",
+    "title": "ナショナリズム",
+    "series": "special",
+    "publicationDate": "2020-09",
+    "isbn": "9784144072574",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I030578768"
+  },
+  {
+    "id": "isbn-9784144072086",
+    "title": "「日本人」とは何者か? : 九鬼周造『「いき」の構造』松岡正剛●折口信夫『死者の書』赤坂真理 河合隼雄『中空構造日本の深層』斎藤環●鈴木大拙『日本的霊性』中沢新一",
+    "series": "special",
+    "publicationDate": "2015-05",
+    "isbn": "9784144072086",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I026334729"
+  },
+  {
+    "id": "isbn-9784144072741",
+    "title": "果てしなき石ノ森章太郎",
+    "series": "special",
+    "publicationDate": "2021-08",
+    "isbn": "9784144072741",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I031568883"
+  },
+  {
+    "id": "isbn-9784144072826",
+    "title": "パンデミックを超えて",
+    "series": "special",
+    "publicationDate": "2022-07",
+    "isbn": "9784144072826",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I032160536"
+  },
+  {
+    "id": "isbn-9784144073311",
+    "title": "フィクションの超越者筒井康隆",
+    "series": "special",
+    "author": "中条, 省平, 1954-",
+    "publicationDate": "2025-08",
+    "isbn": "9784144073311",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I034210109"
+  },
+  {
+    "id": "isbn-9784144072970",
+    "title": "フェミニズム : 『伊藤野枝集』加藤陽子/アトウッド『侍女の物語』『誓願』鴻巣友季子 ハーマン『心的外傷と回復』上間陽子/セジウィック『男同士の絆』上野千鶴子",
+    "series": "special",
+    "publicationDate": "2023-07",
+    "isbn": "9784144072970",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I032883588"
+  },
+  {
+    "id": "isbn-9784144072208",
+    "title": "「平和」について考えよう : フロイト『人はなぜ戦争をするのか』斎藤環●ブローデル『地中海』水野和夫 井原西鶴『日本永代蔵』田中優子●ヴォルテール『寛容論』高橋源一郎",
+    "series": "special",
+    "publicationDate": "2016-05",
+    "isbn": "9784144072208",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I027256081"
+  },
+  {
+    "id": "isbn-9784144072369",
+    "title": "坊ちゃん : 養老孟司特別授業 : 読書の学校",
+    "series": "special",
+    "author": "養老, 孟司, 1937-",
+    "publicationDate": "2018-09",
+    "isbn": "9784144072369",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029164336"
+  },
+  {
+    "id": "isbn-9784144072390",
+    "title": "マクベス : あさのあつこ特別授業 : 読書の学校",
+    "series": "special",
+    "author": "あさの, あつこ, 1954-",
+    "publicationDate": "2019-03",
+    "isbn": "9784144072390",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029520204"
+  },
+  {
+    "id": "isbn-9784144072376",
+    "title": "メディアと私たち",
+    "series": "special",
+    "publicationDate": "2018-12",
+    "isbn": "9784144072376",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029289633"
+  },
+  {
+    "id": "isbn-9784144072079",
+    "title": "老子×孫子「水」のように生きる",
+    "series": "special",
+    "publicationDate": "2015-02",
+    "isbn": "9784144072079",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I026050099"
+  },
+  {
+    "id": "isbn-9784144072598",
+    "title": "ロウソクの科学 : 吉野彰特別授業 : 読書の学校",
+    "series": "special",
+    "author": "吉野, 彰, 1948-",
+    "publicationDate": "2020-11",
+    "isbn": "9784144072598",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I030669715"
+  },
+  {
+    "id": "isbn-9784144072901",
+    "title": "「わが道」の達人水木しげる",
+    "series": "special",
+    "publicationDate": "2023-01",
+    "isbn": "9784144072901",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I032556489"
+  },
+  {
+    "id": "isbn-9784144072284",
+    "title": "わたしたちの手塚治虫",
+    "series": "special",
+    "publicationDate": "2018-01",
+    "isbn": "9784144072284",
+    "sourceUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I028730681"
+  }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+  xmlns:dcndl="http://ndl.go.jp/dcndl/terms/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <channel>
+    <openSearch:totalResults>2</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>2</openSearch:itemsPerPage>
+    <item>
+      <title>サンプル書籍</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I012345678</link>
+      <dc:title>サンプル書籍</dc:title>
+      <dc:creator>サンプル 著者</dc:creator>
+      <dcndl:seriesTitle>NHK「100分de名著」ブックス</dcndl:seriesTitle>
+      <dc:publisher>NHK出版</dc:publisher>
+      <dcterms:issued>2024.3</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-14-000000-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:NDLBibID">012345678</dc:identifier>
+    </item>
+    <item>
+      <title>別シリーズの書籍</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I012345679</link>
+      <dc:title>別シリーズの書籍</dc:title>
+      <dc:creator>別著者</dc:creator>
+      <dcndl:seriesTitle>一般書籍</dcndl:seriesTitle>
+      <dc:publisher>別出版社</dc:publisher>
+      <dcterms:issued>2020.1</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-14-000000-2</dc:identifier>
+    </item>
+  </channel>
+</rss>

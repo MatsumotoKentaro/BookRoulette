@@ -1,0 +1,13 @@
+{
+  "source": "open-bibliography",
+  "generatedAt": "2026-10-16T14:29:52.606Z",
+  "seriesCounts": {
+    "text": 2,
+    "books": 62,
+    "special": 39
+  },
+  "dataSources": [
+    "National Diet Library Search API (National Bibliography)",
+    "OpenBD API"
+  ]
+}
